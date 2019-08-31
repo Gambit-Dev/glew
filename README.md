@@ -1,3 +1,3 @@
 # lib-glew
 
-A repo containing glew docs and precompiled x64 binaries.
+A repo containing [glew](https://github.com/nigels-com/glew) docs and precompiled x64 binaries.
